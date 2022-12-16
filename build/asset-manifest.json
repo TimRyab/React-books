@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef9c148c.css",
+    "main.js": "/static/js/main.6834ee3f.js",
+    "static/media/women-glasses-books-library-Person-shopping-beauty-photograph-2048x1365-px-584153.jpg": "/static/media/women-glasses-books-library-Person-shopping-beauty-photograph-2048x1365-px-584153.b6074d250cae1e8fd75b.jpg",
+    "index.html": "/index.html",
+    "main.ef9c148c.css.map": "/static/css/main.ef9c148c.css.map",
+    "main.6834ee3f.js.map": "/static/js/main.6834ee3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9c148c.css",
+    "static/js/main.6834ee3f.js"
+  ]
+}
